@@ -13,11 +13,11 @@
   
  ## Demo:
     Here is live demo of our current code
-    [click-here](https://sejan.itch.io/project)
+    [click](https://sejan.itch.io/project)
   
  ## Limitation: 
-  
-   There is some bug in this game. We couldn't fix is because there is some limitation in the framework.
+  * The game was developed only for educational purpose
+  * There may contain some bugs and limitations
    
   ## Screenshots:
   ![capture](https://user-images.githubusercontent.com/17163242/35939859-9aec7766-0c77-11e8-951b-a62e295a07c7.PNG)

@@ -11,6 +11,10 @@
   * If the player hit by the bullet it will also cause the lost of one life.
   * There is 3 stage in this game
   
+ ## Demo:
+    Here is live demo of our current code
+    [click here](https://sejan.itch.io/project)
+  
  ## Limitation: 
   
    There is some bug in this game. We couldn't fix is because there is some limitation in the framework.
@@ -28,6 +32,5 @@
   
   ## Contributor:
     
-    https://github.com/xsalsher
-    and
-    https://github.com/sejanH
+   * **Nayeem Hasan** - [xsalsher](https://github.com/xsalsher)
+   * **S.M.Mominul Haque** - [sejanH](https://github.com/sejanH)

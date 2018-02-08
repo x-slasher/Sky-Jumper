@@ -13,7 +13,7 @@
   
  ## Demo:
     Here is live demo of our current code
-    [click here](https://sejan.itch.io/project)
+    [click-here](https://sejan.itch.io/project)
   
  ## Limitation: 
   

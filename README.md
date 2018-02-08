@@ -12,7 +12,7 @@
   * There is 3 stage in this game
   
  ## Demo:
-    Here is [live preview](https://sejan.itch.io/project) of our current code
+    Here is [preview](https://sejan.itch.io/project) of our current code
   
  ## Limitation: 
   * The game was developed only for educational purpose
